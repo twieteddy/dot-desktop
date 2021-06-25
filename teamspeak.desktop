@@ -1,9 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=Teamspeak 3 Client
-StartupWMClass=TeamSpeak 3
-StartupNotify=true 
+Name=TeamSpeak 3
 Terminal=false
-Categories=Network;
+Categories=Network;Application;
 Exec=/home/teddy/.opt/TeamSpeak3-Client-linux_amd64/ts3client_runscript.sh
-Icon=/home/teddy/.opt/TeamSpeak3-Client-linux_amd64/logo.webp
+Icon=/home/teddy/.opt/TeamSpeak3-Client-linux_amd64/teamspeak.png
